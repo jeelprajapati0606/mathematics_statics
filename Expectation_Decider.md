@@ -1,4 +1,4 @@
-# 📊 Expectation_Decider
+ #                                        📊 Expectation_Decider
 
 > **A Comprehensive Statistical Analysis of Student Performance Using Probability Theory & Bayes Theorem**
 
@@ -367,28 +367,6 @@ pip
 pip install numpy pandas matplotlib seaborn matplotlib-venn
 ```
 
-### Running the Notebook
-
-1. Clone the repository:
-```bash
-git clone https://github.com/jeelprajapati0606/mathematics_statics.git
-cd mathematics_statics
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Open the Jupyter Notebook:
-```bash
-jupyter notebook Expectation_Decider.ipynb
-```
-
-4. Run all cells to generate visualizations and analysis.
-
----
-
 ## 🎥 Demo
 
 ### 🔴 Watch the Full Project Walkthrough
@@ -435,21 +413,6 @@ mathematics_statics/
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to:
-- 🐛 Report bugs
-- 💡 Suggest improvements
-- 📝 Improve documentation
-- 🔧 Submit pull requests
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
 
 ## 👤 Author
 
@@ -459,40 +422,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Repository: [mathematics_statics](https://github.com/jeelprajapati0606/mathematics_statics)
 
 ---
-
-## 🎯 Future Enhancements
-
-- [ ] Machine Learning Model for Prediction
-- [ ] Interactive Web Dashboard
-- [ ] Additional Statistical Tests (Chi-Square, etc.)
-- [ ] Multi-factor Analysis
-- [ ] Real-time Data Updates
-
----
-
-## ❓ FAQ
-
-**Q: Can I use this project for educational purposes?**  
-A: Yes! This project is designed for learning probability and statistics concepts.
-
-**Q: How accurate are the predictions?**  
-A: The analysis is based on 200 student records with 70% accuracy for passing predictions using attendance as the primary factor.
-
-**Q: Can I extend this to other datasets?**  
-A: Absolutely! Modify the `student.csv` file with your own data and run the analysis.
-
----
-
-## 📞 Support & Contact
-
-For questions, issues, or suggestions, please open an issue on the [GitHub repository](https://github.com/jeelprajapati0606/mathematics_statics/issues).
-
----
-
 <div align="center">
+   
+###  ⭐ If you found this project helpful, please consider giving it a star! ⭐
 
-### ⭐ If you found this project helpful, please consider giving it a star! ⭐
-
-Made with ❤️ by Jeel Prajapati
+### Made with ❤️ by Jeel Prajapati
 
 </div>
