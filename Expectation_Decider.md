@@ -1,4 +1,8 @@
+<div align="center">
+ 
  #                                        📊 Expectation_Decider
+
+</div>
 
 > **A Comprehensive Statistical Analysis of Student Performance Using Probability Theory & Bayes Theorem**
 
