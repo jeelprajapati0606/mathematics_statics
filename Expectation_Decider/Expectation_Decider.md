@@ -373,9 +373,9 @@ pip install numpy pandas matplotlib seaborn matplotlib-venn
 
 ## 🎥 Demo
 
-### 🔴 Watch the Full Project Walkthrough
+### ▶️ Watch the Full Project Walkthrough
 
-[![Watch Demo Video](https://img.shields.io/badge/▶_WATCH_DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch Demo Video](https://img.shields.io/badge/▶_WATCH_DEMO-1f6feb?style=for-the-badge&logoColor=white)](https://your-demo-video-url)
 
 ### 📺 Interactive Visualization Guide
 
