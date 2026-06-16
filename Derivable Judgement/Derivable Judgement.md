@@ -492,47 +492,6 @@ Contributions are welcome! Please follow these steps:
 - 🐛 Bug fixes
 - 🔧 Performance optimizations
 
----
-
-## 📞 Support & Contact
-
-For questions, issues, or suggestions:
-
-- 📧 **Email:** jeelprajapati0606@email.com
-- 🐙 **GitHub:** [@jeelprajapati0606](https://github.com/jeelprajapati0606)
-- 📋 **Issues:** [Report an issue](https://github.com/jeelprajapati0606/mathematics_statics/issues)
-
----
-
-## 📜 License
-
-This project is open-source and available under the **MIT License**.
-
----
-
-## 🎉 Acknowledgments
-
-- 🙏 Thanks to the statistical community for foundational concepts
-- 📚 Special thanks to scipy and statsmodels libraries
-- 👥 Contributors and users who improve this project
-
----
-
-## 🚀 Quick Start
-
-```bash
-# Clone the repository
-git clone https://github.com/jeelprajapati0606/mathematics_statics.git
-
-# Navigate to project
-cd "Derivable Judgement"
-
-# Install dependencies
-pip install numpy pandas scipy statsmodels jupyter
-
-# Start Jupyter
-jupyter notebook Derivable_Judgement-checkpoint.ipynb
-```
 
 ---
 
@@ -546,5 +505,4 @@ Made with ❤️ by Jeel Prajapati
 
 ---
 
-**Last Updated:** 2026-06-16  
-**Version:** 1.0.0
+
