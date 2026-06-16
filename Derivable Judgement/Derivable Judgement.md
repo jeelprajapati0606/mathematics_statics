@@ -9,6 +9,13 @@
 
 ---
 
+## 🎥 Demo Video
+
+[![Watch Demo Video](https://img.shields.io/badge/▶️%20Watch%20Demo-Click%20Here-blue?style=for-the-badge)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+
+---
+
 ## 📚 Table of Contents
 
 1. [Key Concepts](#-key-concepts)
@@ -493,15 +500,6 @@ Contributions are welcome! Please follow these steps:
 - 🔧 Performance optimizations
 
 
----
-
-## ⭐ Star & Follow
-
-If you find this project helpful, please give it a **⭐ Star** and **Follow** for more updates!
-
-```
-Made with ❤️ by Jeel Prajapati
-```
 
 ---
 
